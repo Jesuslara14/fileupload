@@ -10,4 +10,4 @@ Dependencies:
 
 To install dependencies run the following command:
 
-npm i express ejs multer nodemon
+<span style="color: yellow">npm</span> i express ejs multer nodemon
